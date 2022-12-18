@@ -1,5 +1,2 @@
-# cse326-project
-group12
-aman
-armaan
-sai varma
+# cse326-project(HTML)
+Aman
